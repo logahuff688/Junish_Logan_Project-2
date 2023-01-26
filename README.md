@@ -8,8 +8,6 @@ We worked on wireframes &amp; design together, after finalizing it we moved to t
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
-## History
-TODO: Write history
 ## Credits
 Logan & Junish
 ## License
